@@ -6,8 +6,8 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "waveboxgen_adorufus"
-version = "0.0.1"
+name = "waveboxgen"
+version = "0.0.3"
 authors = [
   { name="Oktaviano Fahdi Syaputra", email="adorufus@gmail.com" },
 ]

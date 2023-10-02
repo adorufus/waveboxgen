@@ -2,7 +2,7 @@
 # Waveboxgen
 
 ### usage: 
-    main.py [-h] generate service filepath
+    waveboxgen [-h] spawn service filepath
 
 Generate a wavebox framework service file
 
