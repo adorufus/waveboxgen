@@ -1,11 +1,15 @@
-usage: main.py [-h] generate service filepath
 
-Generate a wavebox framework file
+# Waveboxgen
 
-positional arguments:
-  generate    Pass this argument to generate file
-  service     Pass this argument to create service file
-  filepath    Directory where the service file will be generated
+### usage: 
+    main.py [-h] generate service filepath
 
-options:
-  -h, --help  show this help message and exit
+Generate a wavebox framework service file
+
+### positional arguments:
+    spawn, s      Pass this argument to generate file
+    service, s    Pass this argument to create service file
+    filepath      Directory where the service file will be generated
+
+### options:
+    -h, --help  show this help message and exit
